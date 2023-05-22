@@ -8,3 +8,7 @@ here is my socond line
 =======
 SECOND COMMIT
 >>>>>>> 40090b236ca46ae18a9415e860b95d0d63a9eb53
+
+
+
+changes 
